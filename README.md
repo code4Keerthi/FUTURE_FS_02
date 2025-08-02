@@ -1,12 +1,21 @@
-# React + Vite
+# FUTURE_FS_02 🛒
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+FUTURE_FS_02 is a simple and responsive front-end e-commerce web app built using **React**, **Vite**, and **Tailwind CSS**. It showcases a clean product layout, shopping interface, and basic interactions like navigation and cart simulation. The project is designed for learning and demonstrating modern UI skills using a lightweight and fast tech stack.
 
-Currently, two official plugins are available:
+This is a front-end application which can be converted to full stack Application by giving backend connectivity.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🔧 Built With
 
-## Expanding the ESLint configuration
+- React.js  
+- Vite  
+- Tailwind CSS  
+- JavaScript (ES6+), HTML5, CSS3
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### 💻 How to Use
+
+Clone the repo, install dependencies using `npm install`, and run `npm run dev` to start the development server. The app runs at `http://localhost:5173`.
+
+### 👩‍💻 Developed by
+
+**Mallela Keerthi Chandrika**  
+[github.com/code4Keerthi](https://github.com/code4Keerthi)
